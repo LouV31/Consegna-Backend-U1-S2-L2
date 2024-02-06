@@ -1,0 +1,1 @@
+Select * from Orders Order by Freight desc
